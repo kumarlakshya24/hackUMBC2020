@@ -1,2 +1,4 @@
+**ARCHIVED** 
+Collaboration at https://github.com/ash-rao/HackUMBC-AiSpy
 # hackUMBC2020
-Team's repo for hackUMBC '20
+
